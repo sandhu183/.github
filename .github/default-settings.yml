@@ -3,7 +3,7 @@
 
 repository:
   default_branch: main
-  private: true
+  private: false
 
   has_issues: false
   has_wiki: false
