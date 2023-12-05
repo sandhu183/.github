@@ -5,7 +5,7 @@ _extends: .github:.github/default-settings.yml
 
 repository: 
   name: .github
-  private: true
+  private: false
 
 branches:
   - name: main
